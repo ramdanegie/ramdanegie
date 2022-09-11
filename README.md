@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello, I'm [Sangam Shakya!] 👋 YO
+## Hello, I'm [Egie Ramdan!] 👋 YO
 
 ## FullStack Developer
 
