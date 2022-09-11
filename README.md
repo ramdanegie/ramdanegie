@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hello, I'm [Sangam Shakya!] 👋 YO
+
+## FullStack Developer
+
+- 🌱 I’m currently learning Flutter, React Native, Vue, Angular, Laravel
+- 📫 How to reach me: ramdanegie@gmail.com
+- 😄 Pronouns: He/His
+
+
+![Sangam's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramdanegie&count_private=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramdanegie&layout=compact)](https://github.com/ShakyaSangam/github-readme-stats)
